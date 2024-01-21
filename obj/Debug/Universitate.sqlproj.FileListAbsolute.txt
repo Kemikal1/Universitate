@@ -1,0 +1,10 @@
+f:\ex\Angajare\Universitate\bin\Debug\Universitate.dacpac
+f:\ex\Angajare\Universitate\bin\Debug\Universitate.dll
+f:\ex\Angajare\Universitate\bin\Debug\Universitate.pdb
+f:\ex\Angajare\Universitate\obj\Debug\Universitate.sqlproj.AssemblyReference.cache
+f:\ex\Angajare\Universitate\obj\Debug\Model.xml
+f:\ex\Angajare\Universitate\obj\Debug\refactor.xml
+f:\ex\Angajare\Universitate\obj\Debug\postdeploy.sql
+f:\ex\Angajare\Universitate\obj\Debug\predeploy.sql
+f:\ex\Angajare\Universitate\obj\Debug\Universitate.dll
+f:\ex\Angajare\Universitate\obj\Debug\Universitate.pdb
